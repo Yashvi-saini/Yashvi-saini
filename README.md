@@ -34,7 +34,7 @@
 A beginner-friendly HTML & CSS project to practice **semantic HTML**, **Flexbox**, and **Grid**.  
 *For me, it’s the first big step in my frontend journey!*  
 
-###  [Cards Layout Project](https://github.com/Yashvi-saini/cards-layout-project)  
+###  [Cards Layout Project](https://github.com/Yashvi-saini/cards-practice)  
 A mini HTML & CSS project with **three responsive cards**, built to strengthen layout & styling concepts.
 
 ---
