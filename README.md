@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Yashvi Saini</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=260&section=header&text=Yashvi%20Saini&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20profile!&descSize=25&descAlignY=65&descAlign=50" alt="Yashvi Saini" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7;36BCF7;F7931E;FF495C;4CAF50&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Aspiring+Data+Analyst;Next.js+Developer;DSA+Student" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 About Me  
+###  About Me  
 - 💻 **Frontend Developer** skilled in **React.js, Redux Toolkit, Next.js, shadcn/ui**  
 - 🏢 Currently at **Software Incubator – Software Development Center** as a Frontend Developer  
 - 🧠 Exploring **DSA in C++**, passionate about **Data Analytics & Power BI**  
@@ -48,14 +48,14 @@
 
 ---
 
-### 💭 Dev Quote
+###  Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
 
-### 📫 Connect With Me  
+###  Connect With Me  
 <div align="center">
   <a href="https://www.linkedin.com/in/yashvi-saini/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"  height="40" alt="linkedin logo"  />
