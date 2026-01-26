@@ -10,11 +10,15 @@
 ---
 
 ###  About Me  
-- 💻 **Frontend Developer** skilled in **React.js, Redux Toolkit, Next.js, shadcn/ui**  
-- 🏢 Currently at **Software Incubator – Software Development Center** as a Frontend Developer  
-- 🧠 Exploring **DSA in C++**, passionate about **Data Analytics & Power BI**  
-- ⚙️ Strong fundamentals in **Python, automation, and web scraping**  
-- 🎯 Goal: Become a **Full-Stack Developer** with expertise in real-time systems and analytics  
+-  **Frontend Developer** skilled in **React.js, Redux Toolkit, Next.js, shadcn/ui**  
+-  Currently at **Software Incubator – Software Development Center** as a Frontend Developer  
+-  Exploring **DSA in C++**, passionate about **Data Analytics & Power BI**  
+-  Strong fundamentals in **Python, automation, and web scraping**  
+-  Goal: Become a **Full-Stack Developer** with expertise in real-time systems and analytics  
+
+<div align="start">
+  <a href="https://portfolio-orpin-nu-20.vercel.app/" target="_blank" aria-label="Visit my portfolio ">🔗 Portfolio</a>
+</div>
 
 ---
 
@@ -26,21 +30,22 @@
 
 ---
 
-### 🌟 Featured Projects  
+###  Featured Projects  
 
 | **[VOW – Virtual Office Workspace](https://vow-live.me/)** |
 | :--- |
 | **Tech:** React.js, Socket.io, WebRTC, Node.js, MongoDB, Redis |
 | • Built a real-time virtual workspace supporting **50+ active users** <br> • Implemented **3-level role-based UI** improving task navigation efficiency by 35% <br> • Integrated WebRTC SFU for **group video calling (10+ users)** <br> • Optimized performance via memoization, virtualization & code-splitting |
 
-| **[Getting Over It (Browser Game)](https://getting-over-it-seven.vercel.app/)** |
+| **[Anime gaming vibe website](https://anime-two-mu.vercel.app/)** |
 | :--- |
-| **Tech:** HTML5 Canvas, JavaScript, CSS |
-| • Built a 60-FPS physics-driven puzzle platformer <br> • Designed real-time hammer-swing mechanics improving responsiveness by 40% <br> • Custom physics engine: **momentum, inertia, gravity, friction** <br> • Improved performance using optimized render loop (30% fewer frame drops) |
+| **Tech:** Reactjs, GSAP, framer motion, lenis, Tailwind |
+| • Built a gaming vibe website using **GSAP and framer motion**  <br> • Smooth scrolling behavior achieved through lenis 
+
 
 ---
 
-### 📊 GitHub Stats  
+###  GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yashvi-saini&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvi-saini&layout=compact&theme=tokyonight&hide_border=true" height="150" />
@@ -65,6 +70,9 @@
   </a>
   <a href="mailto:yashvisaini.Work@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
+  </a>
+  <a href ="https://portfolio-orpin-nu-20.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=user" height="40" alt="portfolio">
   </a>
 </div>
 
