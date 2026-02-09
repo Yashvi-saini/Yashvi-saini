@@ -79,7 +79,7 @@
 ---
 
 <div align="center">
- <i>Thanks for visiting! Let’s connect, innovate, and build amazing things.</i>
+ <i>Thanks for visiting! Let’s connect, innovate, and build amazing things together.</i>
  <br/>
  <br/>
  <img src="https://komarev.com/ghpvc/?username=Yashvi-saini&label=Profile%20Views&color=36BCF7&style=flat" alt="Yashvi-saini" />
