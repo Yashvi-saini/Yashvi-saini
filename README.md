@@ -42,6 +42,11 @@
 | **Tech:** Reactjs, GSAP, framer motion, lenis, Tailwind |
 | • Built a gaming vibe website using **GSAP and framer motion**  <br> • Smooth scrolling behavior achieved through lenis 
 
+| **[CodeClash](https://codeclash.tech/)** |
+| :--- |
+| **Tech:** Next.js, React.js, shadCn, Tailwind |
+| • Built a  modern, interactive coding contest platform**  <br> • Individual practice <br> • Team contest and leaderboard
+
 
 ---
 
