@@ -67,13 +67,13 @@
 
 ###  Connect With Me  
 <div align="center">
-  <a href="https://www.linkedin.com/in/yashvi-saini/" target="_blank">
+  <a href="https://www.linkedin.com/in/yashvi-saini-9a0b45328/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"  height="40" alt="linkedin logo"  />
   </a>
   <a href="https://github.com/Yashvi-saini" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   </a>
-  <a href="mailto:yashvisaini.Work@gmail.com">
+  <a href="mailto:yashvisaini.ys@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
   </a>
   <a href ="https://portfolio-orpin-nu-20.vercel.app/">
