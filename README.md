@@ -16,9 +16,9 @@
 -  Strong fundamentals in **Python, automation, and web scraping**  
 -  Goal: Become a **Full-Stack Developer** with expertise in real-time systems and analytics  
 
-<div align="start">
+<!-- <div align="start">
   <a href="https://portfolio-orpin-nu-20.vercel.app/" target="_blank" aria-label="Visit my portfolio ">🔗 Portfolio</a>
-</div>
+</div> -->
 
 ---
 
