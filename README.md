@@ -52,8 +52,8 @@
 
 ###  GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashvi-saini&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvi-saini&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashvi-saini&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashvi-saini&theme=tokyonight" height="150" />
 </div>
 
 ---
