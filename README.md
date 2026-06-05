@@ -1,10 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=260&section=header&text=Yashvi%20Saini&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20profile!&descSize=25&descAlignY=65&descAlign=50" alt="Yashvi Saini" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7;36BCF7;F7931E;FF495C;4CAF50&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Aspiring+Data+Analyst;Next.js+Developer;DSA+Student" alt="Typing SVG" />
-  </a>
+```console
+$ boot --profile yashvi
+
+✓ Frontend Engineer
+✓ React • Next.js • TypeScript
+✓ Building Real-Time Experiences
+✓ Exploring AI & Data Analytics
+
+$ whoami
+
+Yashvi Saini
+
+$ status
+
+🟢 Available for exciting frontend projects.
+```
+
 </div>
+```
+
 
 
 ---
@@ -55,12 +70,27 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashvi-saini&theme=tokyonight" height="150" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashvi-saini&theme=tokyonight" height="150" />
 </div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yashvi-saini&theme=tokyonight&utcOffset=5.5" />
+</div>
 
 ---
+
+
 
 ###  Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+
+
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashvi-saini&theme=tokyonight" width="95%" />
 </div>
 
 ---
